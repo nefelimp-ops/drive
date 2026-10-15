@@ -1,0 +1,4 @@
+# στοιχεία πελατών: μόνο τοπικά
+*.pdf
+data*.json
+!data_template.json
