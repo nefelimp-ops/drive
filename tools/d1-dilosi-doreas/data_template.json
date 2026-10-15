@@ -1,0 +1,136 @@
+{
+ "_οδηγία": "Πρότυπο δεδομένων για το fill_d1.py. Κλειδιά χωρίς τιμή μένουν κενά στο έντυπο. [..] = κενό με κίτρινο, {{..}} = τιμή με κίτρινο προς επιβεβαίωση. Μην αποθηκεύετε εδώ στοιχεία πελατών.",
+ "pdf_title": "Δήλωση φόρου δωρεάς - γονικής παροχής",
+ "pros_doy": "",
+ "sxet_dilosi": "",
+ "sxet_doy": "",
+ "eidos": "",
+ "doritis": {
+  "afm": "[..........]",
+  "eponymo": "",
+  "onoma": "",
+  "patros": "",
+  "syzygou": "",
+  "doy": "",
+  "til": "",
+  "syggeneia": "",
+  "addr": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "topos_gen": "",
+  "imer_gen": ""
+ },
+ "doreodoxos": {
+  "afm": "[..........]",
+  "eponymo": "",
+  "onoma": "",
+  "patros": "",
+  "syzygou": "",
+  "doy": "",
+  "til": "",
+  "syggeneia": "",
+  "addr": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "topos_gen": "",
+  "imer_gen": ""
+ },
+ "antikl": {
+  "afm": "",
+  "eponymo": "",
+  "onoma": "",
+  "dieuth": ""
+ },
+ "aitia": "",
+ "allos_zei": "",
+ "allos_im_thanatou": "",
+ "periousiako": {
+  "size": 6.7,
+  "perigrafi": "",
+  "eidos": "",
+  "katigoria": ""
+ },
+ "vari": "",
+ "proti_katoikia": "",
+ "psili": "",
+ "progenesteres": [
+  {
+   "symvolaio": "",
+   "afm_symv": "",
+   "onoma_symv": "",
+   "edra": "",
+   "ar_dilosis": "",
+   "axia_drx": "",
+   "axia_eur": "",
+   "foros_drx": "",
+   "foros_eur": "",
+   "goneas": ""
+  }
+ ],
+ "synolo15": {
+  "drx": "",
+  "eur": ""
+ },
+ "simeiosi15": "",
+ "symv_arith": "7",
+ "symv_dimdiam": "ΠΑΤΡΕΩΝ",
+ "symv_til": "2610 220656",
+ "allos_afm": "",
+ "allos_onoma": "",
+ "axia": {
+  "a_keimeno": "",
+  "antikeimeniki": "",
+  "dilotheisa": ""
+ },
+ "ypografi_topos": "Πάτρα,",
+ "ypografi_imer": "....../....../2026",
+ "diloun_titlos": "ΟΙ ΔΗΛΟΥΝΤΕΣ",
+ "diloun_paroxon": "",
+ "diloun_dexomeni": "",
+ "vevaiosi_gnisiou": "",
+ "plirexousioi": [],
+ "dikaiologitika": [
+  "",
+  "",
+  "",
+  ""
+ ]
+}
